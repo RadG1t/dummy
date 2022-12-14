@@ -1,6 +1,6 @@
 # dummy
 
-A new Flutter project.
+I dont know what to say really .
 
 ## Getting Started
 
